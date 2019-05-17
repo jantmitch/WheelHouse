@@ -1,14 +1,28 @@
 body {
-    background-color: black;
+  background-color: black;
+}
+
+.jumbotron {
+  background-image: url("assets/images/wheelhouse_logo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
-    text-align: center;
-    /* font-weight: 80px; */
-    color: seashell;
+  text-align: center;
+  /* font-weight: 80px; */
+  color: seashell;
 }
 
 h3 {
-    text-align: center;
-    color: seashell;
+  text-align: center;
+  color: seashell;
+}
+
+.nav-item {
+    text-align: right;
+}
+
+a {
+  color: seashell;
 }
