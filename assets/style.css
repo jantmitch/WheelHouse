@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    /* font-weight: 80px; */
+    color: seashell;
+}
+
+h3 {
+    text-align: center;
+    color: seashell;
+}
